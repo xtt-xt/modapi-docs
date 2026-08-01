@@ -7,20 +7,8 @@
 
 ## 已开源
 
-### 飞行之羽 *flight-farther*
-
-开源地址: <https://github.com/xtt-xt/flight-farther>
-
-组件码:1581436
-
-### 防爆玻璃 *blast-resistant-glass*
-
-开源地址:开源地址：<https://github.com/xtt-xt/flight-farther>
-
-组件码:7286090
-
-### 流体源 *Infinite-Fluid*
-
-开源地址: <https://github.com/xtt-xt/Infinite-Fluid>
-
-组件码:7508276
+| 模组名称 | 英文名 | 开源地址 | 组件码 |
+|---|---|---|---|
+| 飞行之羽 | flight-farther | [GitHub](https://github.com/xtt-xt/flight-farther) | 1581436 |
+| 防爆玻璃 | blast-resistant-glass | [GitHub](https://github.com/xtt-xt/flight-farther) | 7286090 |
+| 流体源 | Infinite-Fluid | [GitHub](https://github.com/xtt-xt/Infinite-Fluid) | 7508276 |
