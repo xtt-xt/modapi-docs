@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   lang: 'zh-CN',
-  title: "星天模组api文档",
-  description: "星天的网易基岩版模组api，可用于模组联动等",
+  title: "星天模组文档",
+  description: "星天的模组文档，包含模组api，教程等，可用于学习和模组联动",
   
   head: [
     ['link', { rel: 'icon', type: 'image/png', href: '/logo.png' }]
